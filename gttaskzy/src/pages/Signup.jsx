@@ -1,1 +1,0 @@
-const Signup = () => <div className='p-6'>Signup Page</div>; export default Signup;
